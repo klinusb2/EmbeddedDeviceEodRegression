@@ -1,0 +1,6 @@
+{
+  "tests/test_pytest_config.py": true,
+  "tests/test_pytest_serial.py": true,
+  "tests/test_pytest_sshscp.py": true,
+  "tests/test_pytest_websocket.py": true
+}
